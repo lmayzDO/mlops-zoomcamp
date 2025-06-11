@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/5fb43ddbca06478e9aa7b24d2e452064/artifacts
+end_time: 1749461499229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fb43ddbca06478e9aa7b24d2e452064
+run_name: wise-cow-556
+run_uuid: 5fb43ddbca06478e9aa7b24d2e452064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749461474806
+status: 4
+tags: []
+user_id: codespace
